@@ -1,3 +1,5 @@
+Live demo: https://svelte.dev/repl/2869e6f001274c0cb0eda1d1828d82b2?version=3.35.0
+
 *Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
 
 ---
